@@ -114,3 +114,8 @@ The following environment variables can be used to configure the application:
  - `NODE_RED_GUEST_ACCESS` - if the editor is secured, this will allow anonymous,
     read-only access
  - `NODE_RED_USE_APPMETRICS` - enables the appmetrics dashboard
+
+![KasanaShare1](https://user-images.githubusercontent.com/107638658/174146092-489a64e5-bab9-4ab7-8986-44feaa56b3ae.JPG)
+![KasanaShare2](https://user-images.githubusercontent.com/107638658/174146122-73e5885a-4bae-4f4a-934e-5d044f0aae6a.JPG)
+![KasanaShare3](https://user-images.githubusercontent.com/107638658/174146132-fb151ed0-67b5-415e-bd32-24e5b4dc4fbe.JPG)
+![KasanaShare4](https://user-images.githubusercontent.com/107638658/174146142-11bf167e-3b0c-4c1c-bba3-1d01901784e0.JPG)
