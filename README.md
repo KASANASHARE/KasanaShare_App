@@ -1,3 +1,37 @@
+KasanaShare_App
+KasanaShare is a real-time peer to peer energy monitoring, sharing and exchange platform.
+The Issue
+KasanaShare is an IBM IoT enabled peer to peer green power sharing and exchange platform to power up households, small and medium enterprises with Smart solar PV system grids for adaptability to clean energy and climate change mitigation especially in decentralized, rural and hard to reach areas. Now is the time that KasanaShare taps into energy poverty especially in resource constrained areas.
+Solution Architecture
+KasanaShare is an IBM IoT enabled peer to peer energy sharing and exchange framework to accelerate access to clean energy, reduce GHG & CO2 emissions, eliminate noise and air pollution through use of smart PV Systems. KasanaShare features provision of the necessary technological expertise through integration of IoT technology with both software and hardware for Smart PV Systems using Node-RED MQTT
+Slide4
+
+Slide5
+
+https://youtu.be/9IuCdyn7ANc
+
+The Impact
+The KasanaShare enhance and expands access to clean energy, custs down green house gas and CO2 emissions,and improoves the quality of adaptation in societities through clean energy sources. It reduces the use of idnividualized access mechanisms building communities resilient as partner for sustainability.
+Slide6
+
+The USP
+Slide7
+
+The Current Miletones
+United Nations Climate Change (2022) "KasanaShare from Uganda wants to leverage green affordable shareable energy technologies to build livelihoods and enhance communities. Having established Uganda’s first green renewable energy sharing and exchange platform, the KasanaShare team is powering households and small and medium sized companies through Photovoltaic technology and harnessing the Internet of Things (IoT) to bring about the transition to clean energy sources." https://newsroom.unfccc.int/blog/5-green-tech-projects-we-love
+
+Climate Smart Cities Finalists https://challenges.org/blog/climate-smart-cities-challenge-finalists/ https://climatesmart.citieschallenge.org/finalists/ https://climatesmart.citieschallenge.org/2022/01/20/finalists-climate-smart-cities-challenge-2/ https://www.bristolhousingfestival.org.uk/news/cscc-finalists-announced
+
+Slide8
+
+Slide9
+
+#**(c) Nabuduwa Sheila
+
+
+
+
+
 <p align="center">
     <a href="https://cloud.ibm.com">
         <img src="https://cloud.ibm.com/media/docs/developer-appservice/resources/ibm-cloud.svg" height="100" alt="IBM Cloud">
