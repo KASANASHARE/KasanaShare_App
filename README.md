@@ -36,5 +36,5 @@ https://www.bristolhousingfestival.org.uk/news/cscc-finalists-announced
 
 ![Slide9](https://user-images.githubusercontent.com/107638658/174131467-b0a16655-6fad-4862-aa89-871f97f5f99d.JPG)
 
-#**(c) Nabuduwa Sheila
+# (c) ***Nabuduwa Sheila***
 
