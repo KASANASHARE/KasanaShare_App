@@ -1,32 +1,36 @@
-KasanaShare_App
-KasanaShare is a real-time peer to peer energy monitoring, sharing and exchange platform.
-The Issue
-KasanaShare is an IBM IoT enabled peer to peer green power sharing and exchange platform to power up households, small and medium enterprises with Smart solar PV system grids for adaptability to clean energy and climate change mitigation especially in decentralized, rural and hard to reach areas. Now is the time that KasanaShare taps into energy poverty especially in resource constrained areas.
-Solution Architecture
-KasanaShare is an IBM IoT enabled peer to peer energy sharing and exchange framework to accelerate access to clean energy, reduce GHG & CO2 emissions, eliminate noise and air pollution through use of smart PV Systems. KasanaShare features provision of the necessary technological expertise through integration of IoT technology with both software and hardware for Smart PV Systems using Node-RED MQTT
-Slide4
+# KasanaShare_App
+## ***KasanaShare is a real-time peer to peer energy monitoring, sharing and exchange platform.***
 
-Slide5
+## The Issue
+### *KasanaShare is an IBM IoT enabled peer to peer green power sharing and exchange platform to power up households, small and medium enterprises with Smart solar PV system grids for adaptability to clean energy and climate change mitigation especially in decentralized, rural and hard to reach areas. Now is the time that KasanaShare taps into energy poverty especially in resource constrained areas.*
+
+## Solution Architecture
+### *KasanaShare is an IBM IoT enabled peer to peer energy sharing and exchange framework to accelerate access to clean energy, reduce GHG & CO2 emissions, eliminate noise and air pollution through use of smart PV Systems. KasanaShare features provision of the necessary technological expertise through integration of IoT technology with both software and hardware for Smart PV Systems using Node-RED MQTT*
+
+![Slide4](https://user-images.githubusercontent.com/107638658/174145569-a0d3f0c1-e6a6-4c0f-8a74-456cfe81a5c5.JPG)
+![Slide5](https://user-images.githubusercontent.com/107638658/174145608-7c98f154-83cc-4828-9a85-dfac3158b399.JPG)
 
 https://youtu.be/9IuCdyn7ANc
 
-The Impact
-The KasanaShare enhance and expands access to clean energy, custs down green house gas and CO2 emissions,and improoves the quality of adaptation in societities through clean energy sources. It reduces the use of idnividualized access mechanisms building communities resilient as partner for sustainability.
-Slide6
+## The Impact
+### *The KasanaShare enhance and expands access to clean energy, custs down green house gas and CO2 emissions,and improoves the quality of adaptation in societities through clean energy sources. It reduces the use of idnividualized access mechanisms building communities resilient as partner for sustainability.*
 
-The USP
-Slide7
+![Slide6](https://user-images.githubusercontent.com/107638658/174145707-d95cacc6-1cd1-421c-b4c8-f137d4e0b5b0.JPG)
 
-The Current Miletones
-United Nations Climate Change (2022) "KasanaShare from Uganda wants to leverage green affordable shareable energy technologies to build livelihoods and enhance communities. Having established Uganda’s first green renewable energy sharing and exchange platform, the KasanaShare team is powering households and small and medium sized companies through Photovoltaic technology and harnessing the Internet of Things (IoT) to bring about the transition to clean energy sources." https://newsroom.unfccc.int/blog/5-green-tech-projects-we-love
+## The USP
+![Slide7](https://user-images.githubusercontent.com/107638658/174145751-338a5f49-3346-4c0d-ba31-e99a64da4387.JPG)
+
+## The Current Miletones
+**United Nations** Climate Change (2022) "**KasanaShare from Uganda** wants to leverage green affordable shareable energy technologies to build livelihoods and enhance communities. Having established Uganda’s first green renewable energy sharing and exchange platform, the KasanaShare team is powering households and small and medium sized companies through Photovoltaic technology and harnessing the **Internet of Things (IoT)** to bring about the transition to clean energy sources." https://newsroom.unfccc.int/blog/5-green-tech-projects-we-love
 
 Climate Smart Cities Finalists https://challenges.org/blog/climate-smart-cities-challenge-finalists/ https://climatesmart.citieschallenge.org/finalists/ https://climatesmart.citieschallenge.org/2022/01/20/finalists-climate-smart-cities-challenge-2/ https://www.bristolhousingfestival.org.uk/news/cscc-finalists-announced
 
-Slide8
+![Slide8](https://user-images.githubusercontent.com/107638658/174145877-75b4a1ad-c40f-4816-8434-b888bbe16efe.JPG)
+![Slide9](https://user-images.githubusercontent.com/107638658/174145915-7394fbde-a8a2-4e19-9caf-17c906dffb61.JPG)
 
-Slide9
+![Slide10](https://user-images.githubusercontent.com/107638658/174145929-e3c337c8-0112-4713-a293-e98a410176dd.JPG)
 
-#**(c) Nabuduwa Sheila
+# **(c) Nabuduwa Sheila
 
 
 
